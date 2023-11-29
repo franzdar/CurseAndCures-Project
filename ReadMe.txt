@@ -19,7 +19,8 @@ Esc - Menu
 \\ TEST THE GAME:
 1. Under <Code>, Download ZIP
 2. Extract "CurseAndCures-Project-main.zip"
-3. Open the extracted folder in Unity then Click Play or open "Curse & Cures Final.exe"
+3. Open the extracted folder in Unity then Click Play or 
+   Find the Build folder then open "Curse & Cures Final.exe"
 
 
 Note: Curse & Cures is also available to be downloaded in my website.
